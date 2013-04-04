@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export S3_BUCKET="heroku-buildpack-php-tyler"
+export S3_BUCKET="reboot-heroku-bins"
 
 export LIBMCRYPT_VERSION="2.5.8"
 export PHP_VERSION="5.4.13"
